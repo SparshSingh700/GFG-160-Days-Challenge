@@ -1,4 +1,4 @@
-// Function to find the majority elements in the array
+// Function to find the majority elements in the array.
 
 import java.util.*;
 class Solution {
