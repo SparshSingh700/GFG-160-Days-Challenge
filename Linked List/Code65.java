@@ -1,4 +1,4 @@
-//gfg Reverse a linked list
+//gfg Reverse a linked list.
 // function Template for Java
 
 /* linked list node class:
