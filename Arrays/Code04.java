@@ -1,4 +1,4 @@
-// Day 4 - Rotate Array
+// Day 4 - Rotate Array.
 
 class Solution {
     // Function to rotate an array by d elements in counter-clockwise direction.
