@@ -1,4 +1,4 @@
-//Gfg Smallest Positive Missing.
+//Gfg Smallest Positive Missing
 class Solution {
     // Function to find the smallest positive missing number
     public int missingNumber(int[] arr) {
