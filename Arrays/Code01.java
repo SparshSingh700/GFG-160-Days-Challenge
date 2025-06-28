@@ -1,4 +1,4 @@
-//Day1 Second Largest.
+//Day1 Second Largest
 class Solution {
     public int getSecondLargest(int[] arr) {
         int max=-1;
