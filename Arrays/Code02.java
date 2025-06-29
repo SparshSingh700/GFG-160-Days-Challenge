@@ -1,4 +1,4 @@
-//Day2 - Move All Zeros to End 
+//Day2 - Move All Zeros to End.
 class Solution {
     void pushZerosToEnd(int[] arr) {
         int i=0;
