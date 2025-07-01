@@ -1,4 +1,4 @@
-// GFG Implement Atoi
+// GFG Implement Atoi.
 class Solution {
     public int myAtoi(String s) {
         // Your code here
